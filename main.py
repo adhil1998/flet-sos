@@ -1,6 +1,6 @@
 import flet
-from flet import (Column, Container, ElevatedButton, Page, Row, Text,
-                  TextField, UserControl, alignment, colors, icons, padding)
+from flet import (Column, Container, Page, Row, Text,
+                  UserControl, alignment, colors)
 
 values = ['O', 'X']
 
